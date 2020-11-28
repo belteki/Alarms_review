@@ -1,4 +1,4 @@
-# alarms_review
+# How to interpret and manage ventilator alarms in the neonatal intensive care unit
 
 This repository contains the Python code used for data processing, analysis and visualization described in the following paper:
 
