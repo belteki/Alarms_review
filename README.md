@@ -12,18 +12,18 @@ This code can be viewed in any web browser. If the code is displayed (rendered) 
 
 To run the code, you need to use Jupyter. The raw ventilator data are not shared but the user can run this code on his or her own data obtained in the same format.
 
-Packages required to run this Notebook:
+PPackages required to run this Notebook:
 
 Python version: 3.7.1
 
-IPython version: 7.2.0
+IPython version: 7.10.2
 
-pandas version: 0.23.4
+pandas version: 0.25.4
 
-matplotlib version: 3.0.2
+matplotlib version: 3.1.1
 
-NumPy version: 1.15.4
+NumPy version: 1.17.4
 
-SciPy version: 1.1.0
+SciPy version: 1.3.1
 
 I recommend downloading these packages using the freely availably Anaconda built: https://www.continuum.io/downloads
